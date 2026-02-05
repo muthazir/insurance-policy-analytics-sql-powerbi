@@ -1,6 +1,6 @@
 # PRISM-Insurance-Policy-Analytics-Report
 
-Power BI insurance analytics report built using SQL Server integration, DAX-driven lifecycle logic, demographic segmentation, and automated scheduled refresh for real-time portfolio monitoring.
+Power BI insurance analytics report with SQL Server data integration, advanced DAX lifecycle logic, demographic segmentation, and automated scheduled refresh for real-time portfolio monitoring.
 
 ---
 
@@ -105,7 +105,13 @@ This dynamically evaluates policy validity.
 
 ---
 
-## Snapshot of Report (Power BI Service)
+## Report Snapshots
+
+### Portfolio & Claims Overview  
+
+<img width="644" height="362" alt="Image" src="https://github.com/user-attachments/assets/52945603-5fd9-41c7-8261-4f7830807d89" />
+
+### Transaction Level View 
 
 <img width="646" height="364" alt="Image" src="https://github.com/user-attachments/assets/01de5398-661b-4bd0-995c-4759495cb021" />
 
